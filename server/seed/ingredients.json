@@ -1,0 +1,438 @@
+[
+  {
+    "name": "bourbon",
+    "category": "liquor"
+  },
+  {
+    "name": "rye",
+    "category": "liquor"
+  },
+  {
+    "name": "scotch",
+    "category": "liquor"
+  },
+  {
+    "name": "irish whiskey",
+    "category": "liquor"
+  },
+  {
+    "name": "vodka",
+    "category": "liquor"
+  },
+  {
+    "name": "vodka citron",
+    "category": "liquor"
+  },
+  {
+    "name": "gin",
+    "category": "liquor"
+  },
+  {
+    "name": "london dry gin",
+    "category": "liquor"
+  },
+  {
+    "name": "old tom gin",
+    "category": "liquor"
+  },
+  {
+    "name": "navy strength gin",
+    "category": "liquor"
+  },
+  {
+    "name": "light rum",
+    "category": "liquor"
+  },
+  {
+    "name": "dark rum",
+    "category": "liquor"
+  },
+  {
+    "name": "gold rum",
+    "category": "liquor"
+  },
+  {
+    "name": "aged rum",
+    "category": "liquor"
+  },
+  {
+    "name": "malibu rum",
+    "category": "liquor"
+  },
+  {
+    "name": "jamaica pot still black rum",
+    "category": "liquor"
+  },
+  {
+    "name": "tequila",
+    "category": "liquor"
+  },
+  {
+    "name": "blanco tequila",
+    "category": "liquor"
+  },
+  {
+    "name": "reposado tequila",
+    "category": "liquor"
+  },
+  {
+    "name": "añejo tequila",
+    "category": "liquor"
+  },
+  {
+    "name": "brandy",
+    "category": "liquor"
+  },
+  {
+    "name": "cognac",
+    "category": "liquor"
+  },
+  {
+    "name": "absinthe",
+    "category": "liquor"
+  },
+  {
+    "name": "campari",
+    "category": "liqueur"
+  },
+  {
+    "name": "aperol",
+    "category": "liqueur"
+  },
+  {
+    "name": "calvados",
+    "category": "liqueur"
+  },
+  {
+    "name": "amaro nonino",
+    "category": "liqueur"
+  },
+  {
+    "name": "sweet vermouth",
+    "category": "wine"
+  },
+  {
+    "name": "dry vermouth",
+    "category": "wine"
+  },
+  {
+    "name": "peach schnapps",
+    "category": "liqueur"
+  },
+  {
+    "name": "champagne",
+    "category": "wine"
+  },
+  {
+    "name": "sparkling wine",
+    "category": "wine"
+  },
+  {
+    "name": "green chartreuse",
+    "category": "liqueur"
+  },
+  {
+    "name": "dom bénédictine",
+    "category": "liqueur"
+  },
+  {
+    "name": "galliano",
+    "category": "liqueur"
+  },
+  {
+    "name": "kahlúa",
+    "category": "liqueur"
+  },
+  {
+    "name": "baileys irish cream",
+    "category": "liqueur"
+  },
+  {
+    "name": "dry sherry",
+    "category": "wine"
+  },
+  {
+    "name": "lillet blanc",
+    "category": "liqueur"
+  },
+  {
+    "name": "crème de mûre",
+    "category": "liqueur"
+  },
+  {
+    "name": "crème de violette",
+    "category": "liqueur"
+  },
+  {
+    "name": "crème de cassis",
+    "category": "liqueur"
+  },
+  {
+    "name": "crème de cacao",
+    "category": "liqueur"
+  },
+  {
+    "name": "white crème de cacao",
+    "category": "liqueur"
+  },
+  {
+    "name": "coffee liqueur",
+    "category": "liqueur"
+  },
+  {
+    "name": "drambuie",
+    "category": "liqueur"
+  },
+  {
+    "name": "chambord",
+    "category": "liqueur"
+  },
+  {
+    "name": "maraschino",
+    "category": "liqueur"
+  },
+  {
+    "name": "red wine",
+    "category": "wine"
+  },
+  {
+    "name": "prosecco",
+    "category": "wine"
+  },
+  {
+    "name": "triple sec",
+    "category": "liqueur"
+  },
+  {
+    "name": "cointreau",
+    "category": "liqueur"
+  },
+  {
+    "name": "dry curaçao",
+    "category": "liqueur"
+  },
+  {
+    "name": "blue curaçao",
+    "category": "liqueur"
+  },
+  {
+    "name": "cherry liqueur",
+    "category": "liqueur"
+  },
+  {
+    "name": "peach liqueur",
+    "category": "liqueur"
+  },
+  {
+    "name": "fernet branca",
+    "category": "liqueur"
+  },
+  {
+    "name": "151 proof alcohol",
+    "category": "liquor"
+  },
+  {
+    "name": "angostura bitters",
+    "category": "bitters"
+  },
+  {
+    "name": "peychauds bitters",
+    "category": "bitters"
+  },
+  {
+    "name": "aromatic bitters",
+    "category": "bitters"
+  },
+  {
+    "name": "orange bitters",
+    "category": "bitters"
+  },
+  {
+    "name": "soda water",
+    "category": "other"
+  },
+  {
+    "name": "tonic water",
+    "category": "other"
+  },
+  {
+    "name": "pink grapefruit soda",
+    "category": "other"
+  },
+  {
+    "name": "club soda",
+    "category": "other"
+  },
+  {
+    "name": "lemonade",
+    "category": "other"
+  },
+  {
+    "name": "cola",
+    "category": "other"
+  },
+  {
+    "name": "cold brew",
+    "category": "other"
+  },
+  {
+    "name": "ginger beer",
+    "category": "other"
+  },
+  {
+    "name": "ginger ale",
+    "category": "other"
+  },
+  {
+    "name": "hot coffee",
+    "category": "other"
+  },
+  {
+    "name": "milk",
+    "category": "other"
+  },
+  {
+    "name": "cream",
+    "category": "other"
+  },
+  {
+    "name": "coconut milk",
+    "category": "other"
+  },
+  {
+    "name": "light cream",
+    "category": "other"
+  },
+  {
+    "name": "lemon juice",
+    "category": "juice"
+  },
+  {
+    "name": "lime juice",
+    "category": "juice"
+  },
+  {
+    "name": "cranberry juice",
+    "category": "juice"
+  },
+  {
+    "name": "grapefruit juice",
+    "category": "juice"
+  },
+  {
+    "name": "pineapple juice",
+    "category": "juice"
+  },
+  {
+    "name": "raspberry juice",
+    "category": "juice"
+  },
+  {
+    "name": "orange juice",
+    "category": "juice"
+  },
+  {
+    "name": "tomato juice",
+    "category": "juice"
+  },
+  {
+    "name": "cream of coconut",
+    "category": "other"
+  },
+  {
+    "name": "grenadine",
+    "category": "syrup"
+  },
+  {
+    "name": "simple syrup",
+    "category": "syrup"
+  },
+  {
+    "name": "demerara syrup",
+    "category": "syrup"
+  },
+  {
+    "name": "raspberry syrup",
+    "category": "syrup"
+  },
+  {
+    "name": "maple syrup",
+    "category": "syrup"
+  },
+  {
+    "name": "agave syrup",
+    "category": "syrup"
+  },
+  {
+    "name": "honey syrup",
+    "category": "syrup"
+  },
+  {
+    "name": "orgeat syrup",
+    "category": "syrup"
+  },
+  {
+    "name": "gomme syrup",
+    "category": "syrup"
+  },
+  {
+    "name": "butterfly pea flower tea",
+    "category": "other"
+  },
+  {
+    "name": "raw honey",
+    "category": "other"
+  },
+  {
+    "name": "strawberry",
+    "category": "other"
+  },
+  {
+    "name": "sugar cube",
+    "category": "other"
+  },
+  {
+    "name": "superfine sugar",
+    "category": "other"
+  },
+  {
+    "name": "brown sugar",
+    "category": "other"
+  },
+  {
+    "name": "worcestershire sauce",
+    "category": "other"
+  },
+  {
+    "name": "tabasco sauce",
+    "category": "other"
+  },
+  {
+    "name": "egg white",
+    "category": "other"
+  },
+  {
+    "name": "mint leaf",
+    "category": "other"
+  },
+  {
+    "name": "black pepper",
+    "category": "other"
+  },
+  {
+    "name": "saline solution",
+    "category": "other"
+  },
+  {
+    "name": "citric acid solution",
+    "category": "other"
+  },
+  {
+    "name": "salt",
+    "category": "other"
+  },
+  {
+    "name": "water",
+    "category": "other"
+  }
+]

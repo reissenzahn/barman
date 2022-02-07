@@ -1,0 +1,2577 @@
+[
+  {
+    "name": "Old Fashioned",
+    "image": "old-fashioned.jpg",
+    "recipes": [
+      {
+        "drinkware": "lowball glass",
+        "ingredients": [
+          {
+            "name": "bourbon",
+            "unit": "milliliter",
+            "quantity1": 45
+          },
+          {
+            "name": "angostura bitters",
+            "unit": "dash",
+            "quantity1": 3
+          },
+          {
+            "name": "water",
+            "unit": "dash",
+            "quantity1": 2
+          },
+          {
+            "name": "sugar cube",
+            "unit": "unit",
+            "quantity1": 1
+          }
+        ],
+        "garnishes": ["orange swath", "cocktail cherry"],
+        "method": "Place the sugar cube in an lowball glass and saturate it with bitters. Add a couple dashes of water. Muddle until dissolved. Fill the glass with ice cubes and add the bourbon. Stir gently. Garnish with an orange swath and a cocktail cherry.",
+        "notes": "",
+        "url": "https://iba-world.com/old-fashioned/"
+      },
+      {
+        "drinkware": "lowball glass",
+        "ingredients": [
+          {
+            "name": "bourbon",
+            "unit": "milliliter",
+            "quantity1": 60
+          },
+          {
+            "name": "demerara syrup",
+            "unit": "milliliter",
+            "quantity1": 7.5
+          },
+          {
+            "name": "angostura bitters",
+            "unit": "dash",
+            "quantity1": 4
+          }
+        ],
+        "garnishes": ["orange slice", "orange swath", "cocktail cherry"],
+        "method": "Add an orange slice to a mixing glass followed by the demerara syrup, bitters and bourbon. Add ice to a lowball glass. Add ice to the mixing glass and briefly stir. Strain into the lowball glass. Express the oils of an orange swath over the cocktail. Garnish with the orange swath and cocktail cherry.",
+        "notes": "Using demerara syrup rather than a sugar cube results in a more uniform cocktail.",
+        "url": "https://www.youtube.com/watch?v=pdcrJ5V7YKM"
+      },
+      {
+        "drinkware": "lowball glass",
+        "ingredients": [
+          {
+            "name": "bourbon",
+            "unit": "ounce",
+            "quantity1": 2
+          },
+          {
+            "name": "maple syrup",
+            "unit": "barspoon",
+            "quantity1": 1
+          },
+          {
+            "name": "angostura bitters",
+            "unit": "dash",
+            "quantity1": 2
+          }
+        ],
+        "garnishes": ["orange swath"],
+        "method": "Add the bourbon, maple syrup and bitters to a mixing glass with ice and stir. Pour into a lowball glass over a large ice cube. Express the oils of an orange swath and garnish.",
+        "notes": "",
+        "url": "https://www.youtube.com/watch?v=mf1ax7y0yyI"
+      }
+    ]
+  },
+  {
+    "name": "Manhattan",
+    "image": "manhattan.jpg",
+    "recipes": [
+      {
+        "drinkware": "cocktail glass",
+        "ingredients": [
+          {
+            "name": "rye",
+            "unit": "milliliter",
+            "quantity1": 60
+          },
+          {
+            "name": "sweet vermouth",
+            "unit": "milliliter",
+            "quantity1": 30
+          },
+          {
+            "name": "angostura bitters",
+            "unit": "dash",
+            "quantity1": 2
+          }
+        ],
+        "garnishes": ["cocktail cherry"],
+        "method": "Chill a cocktail glass. Add the rye, sweet vermouth and bitters to a mixing glass. Add ice and stir. Strain into the chilled glass. Garnish with a cocktail cherry.",
+        "notes": "A 'perfect' Manhattan uses half sweet vermouth and half dry vermouth.",
+        "url": "https://www.youtube.com/watch?v=eWESf1b317Y"
+      }
+    ]
+  },
+  {
+    "name": "Negroni",
+    "image": "negroni.jpg",
+    "recipes": [
+      {
+        "drinkware": "lowball glass",
+        "ingredients": [
+          {
+            "name": "london dry gin",
+            "unit": "milliliter",
+            "quantity1": 45
+          },
+          {
+            "name": "campari",
+            "unit": "milliliter",
+            "quantity1": 22.5
+          },
+          {
+            "name": "sweet vermouth",
+            "unit": "milliliter",
+            "quantity1": 22.5
+          }
+        ],
+        "garnishes": ["orange swath"],
+        "method": "Add the gin, campari and sweet vermouth to a mixing glass. Add ice to a lowball glass. Add ice to the mixing glass and stir. Strain the cocktail into a lowball glass. Express the oils of an orange swath over the cocktail. Garnish with the orange swath.",
+        "notes": "",
+        "url": "https://www.youtube.com/watch?v=lgy6vEX_hQg"
+      },
+      {
+        "drinkware": "nick & nora glass",
+        "ingredients": [
+          {
+            "name": "gin",
+            "unit": "ounce",
+            "quantity1": 1 
+          },
+          {
+            "name": "campari",
+            "unit": "ounce",
+            "quantity1": 1 
+          },
+          {
+            "name": "sweet vermouth",
+            "unit": "ounce",
+            "quantity1": 1 
+          }
+        ],
+        "garnishes": ["orange swath"],
+        "method": "Add all the ingredients to a mixing glass with ice and stir. Strain into a nick & nora glass. Express the oils of an orange swath. Garnish and serve.",
+        "notes": "",
+        "url": "https://www.youtube.com/watch?v=kbGCnu39YGM"
+      }
+    ]
+  },
+  {
+    "name": "Americano",
+    "image": "americano.jpg",
+    "recipes": [
+      {
+        "drinkware": "lowball glass",
+        "ingredients": [
+          {
+            "name": "campari",
+            "unit": "milliliter",
+            "quantity1": 45
+          },
+          {
+            "name": "sweet vermouth",
+            "unit": "milliliter",
+            "quantity1": 45
+          },
+          {
+            "name": "soda water",
+            "unit": "milliliter",
+            "quantity1": 90,
+            "approx": true
+          }
+        ],
+        "garnishes": ["lemon wheel"],
+        "method": "Add ice to a lowball glass. Add the campari, sweet vermouth to the lowball glass. Top off with soda water and briefly stir. Garnish with a lemon wheel.",
+        "notes": "",
+        "url": "https://www.youtube.com/watch?v=lgy6vEX_hQg"
+      }
+    ]
+  },
+  {
+    "name": "Clover Club",
+    "image": "clover-club.jpg",
+    "recipes": [
+      {
+        "drinkware": "nick & nora glass",
+        "ingredients": [
+          {
+            "name": "london dry gin",
+            "unit": "milliliter",
+            "quantity1": 45
+          },
+          {
+            "name": "lemon juice",
+            "unit": "milliliter",
+            "quantity1": 22.5
+          },
+          {
+            "name": "raspberry syrup",
+            "unit": "milliliter",
+            "quantity1": 15
+          }
+        ],
+        "garnishes": ["raspberry"],
+        "method": "Chill a nick & nora glass. Add the gin, lemon juice and raspberry syrup to a shaker. Add ice and shake. Strain into the chilled glass. Garnish with a raspberry.",
+        "notes": "",
+        "url": "https://www.youtube.com/watch?v=MfHv2EOLUOo"
+      },
+      {
+        "drinkware": "champagne coupe",
+        "ingredients": [
+          {
+            "name": "gin",
+            "unit": "ounce",
+            "quantity1": 2
+          },
+          {
+            "name": "lemon juice",
+            "unit": "ounce",
+            "quantity1": 0,
+            "quantity2": 75
+          },
+          {
+            "name": "raspberry syrup",
+            "unit": "ounce",
+            "quantity1": 0,
+            "quantity2": 5
+          },
+          {
+            "name": "egg white",
+            "unit": "unit",
+            "quantity1": 1
+          }
+        ],
+        "garnishes": ["raspberry"],
+        "method": "Add all the ingredients to a shaking tin with ice and shake. Strain into a champagne coupe. Garnish and serve.",
+        "notes": "",
+        "url": "https://www.youtube.com/watch?v=Zws_MdZS4_0"
+      }
+    ]
+  },
+  {
+    "name": "Aviation",
+    "image": "aviation.jpg",
+    "recipes": [
+      {
+        "drinkware": "champagne coupe",
+        "ingredients": [
+          {
+            "name": "london dry gin",
+            "unit": "milliliter",
+            "quantity1": 60
+          },
+          {
+            "name": "maraschino",
+            "unit": "milliliter",
+            "quantity1": 7.5
+          },
+          {
+            "name": "crème de violette",
+            "unit": "milliliter",
+            "quantity1": 7.5
+          },
+          {
+            "name": "lemon juice",
+            "unit": "milliliter",
+            "quantity1": 15
+          }
+        ],
+        "garnishes": ["cocktail cherry"],
+        "method": "Chill a champagne coupe. Add the gin, maraschino, crème de violette and lemon juice to a mixing glass. Add ice and stir. Strain into the chilled glass. Express the oils of a lemon swath over the cocktail. Garnish with a cocktail cherry.",
+        "notes": "",
+        "url": "https://www.youtube.com/watch?v=Kmw5D32W8sM"
+      },
+      {
+        "drinkware": "champagne coupe",
+        "ingredients": [
+          {
+            "name": "gin",
+            "unit": "ounce",
+            "quantity1": 2
+          },
+          {
+            "name": "maraschino",
+            "unit": "ounce",
+            "quantity1": 0,
+            "quantity2": 5
+          },
+          {
+            "name": "crème de violette",
+            "unit": "ounce",
+            "quantity1": 0,
+            "quantity2": 25
+          },
+          {
+            "name": "lemon juice",
+            "unit": "ounce",
+            "quantity1": 0,
+            "quantity2": 75
+          }
+        ],
+        "garnishes": ["maraschino cherry"],
+        "method": "Add the ingredients to a mixing glass with ice and stir. Pour into a champagne coupe. Garnish and serve.",
+        "notes": "",
+        "url": "https://www.youtube.com/watch?v=ZkC50vRcJ1k"
+      }
+    ]
+  },
+  {
+    "name": "El Presidente",
+    "image": "el-presidente.jpg",
+    "recipes": [
+      {
+        "drinkware": "cocktail glass",
+        "ingredients": [
+          {
+            "name": "light rum",
+            "unit": "milliliter",
+            "quantity1": 45
+          },
+          {
+            "name": "dry vermouth",
+            "unit": "milliliter",
+            "quantity1": 22.5
+          },
+          {
+            "name": "dry curaçao",
+            "unit": "milliliter",
+            "quantity1": 7.5
+          },
+          {
+            "name": "grenadine",
+            "unit": "barspoon",
+            "quantity1": 1
+          }
+        ],
+        "garnishes": ["orange swath"],
+        "method": "Chill a cocktail glass. Add the light rum, dry vermouth, dry curaçao and grenadine and stir. Strain into the chilled glass. Express the oils of an orange swath over the cocktail. Garnish with the orange swath.",
+        "notes": "",
+        "url": "https://www.youtube.com/watch?v=1AZGE2FUAO4"
+      },
+      {
+        "drinkware": "champagne coupe",
+        "ingredients": [
+          {
+            "name": "aged rum",
+            "unit": "ounce",
+            "quantity1": 1,
+            "quantity2": 5
+          },
+          {
+            "name": "lillet blanc",
+            "unit": "ounce",
+            "quantity1": 1,
+            "quantity2": 5
+          },
+          {
+            "name": "dry curaçao",
+            "unit": "ounce",
+            "quantity1": 0,
+            "quantity2": 25
+          },
+          {
+            "name": "grenadine",
+            "unit": "barspoon",
+            "quantity1": 1
+          }
+        ],
+        "garnishes": ["orange swath"],
+        "method": "Add the ingredients to a mixing glass with ice and stir. Pour into a champagne coupe. Express orange oils. Garnish and serve.",
+        "notes": "",
+        "url": "https://www.youtube.com/watch?v=lWOHvGlYQcU"
+      }
+    ]
+  },
+  {
+    "name": "Dark 'n' Stormy",
+    "image": "dark-n-stormy.jpg",
+    "recipes": [
+      {
+        "drinkware": "collins glass",
+        "ingredients": [
+          {
+            "name": "dark rum",
+            "unit": "milliliter",
+            "quantity1": 45
+          },
+          {
+            "name": "ginger beer",
+            "unit": "milliliter",
+            "quantity1": 120,
+            "approx": true
+          }
+        ],
+        "garnishes": ["lime wheel"],
+        "method": "Add ice to a collins glass. Add the ginger beer followed by the dark rum. Garnish with a lime wheel.",
+        "notes": "Use Gosling's Black Seal Rum and Barritt's Ginger Beer.",
+        "url": "https://www.youtube.com/watch?v=2EZBGowe0ho"
+      }
+    ]
+  },
+  {
+    "name": "Piña Colada",
+    "image": "pina-colada.jpg",
+    "recipes": [
+      {
+        "drinkware": "hurricane glass",
+        "ingredients": [
+          {
+            "name": "light rum",
+            "unit": "milliliter",
+            "quantity1": 60
+          },
+          {
+            "name": "cream of coconut",
+            "unit": "milliliter",
+            "quantity1": 30
+          },
+          {
+            "name": "coconut milk",
+            "unit": "milliliter",
+            "quantity1": 30
+          },
+          {
+            "name": "pineapple juice",
+            "unit": "milliliter",
+            "quantity1": 180
+          }
+        ],
+        "garnishes": ["pineapple frond", "pineapple wedge"],
+        "method": "Chill a hurricane glass. Add the light rum, cream of coconut, coconut milk, pineapple juice to a shaker. Add crushed ice and blend using an immersion blender. Pour into the chilled glass. Garnish with pineapple fronds and a pineapple wedge.",
+        "notes": "",
+        "url": "https://www.youtube.com/watch?v=eH9yt9JpXXk"
+      },
+      {
+        "drinkware": "lowball glass",
+        "ingredients": [
+          {
+            "name": "aged rum",
+            "unit": "milliliter",
+            "quantity1": 60
+          },
+          {
+            "name": "pineapple juice",
+            "unit": "milliliter",
+            "quantity1": 60
+          },
+          {
+            "name": "cream of coconut",
+            "unit": "milliliter",
+            "quantity1": 22.5
+          },
+          {
+            "name": "lime juice",
+            "unit": "milliliter",
+            "quantity1": 7.5
+          }
+        ],
+        "garnishes": ["pineapple wedge"],
+        "method": "Add the cream of coconut, pineapple juice, lime juice and aged rum to a shaker tin. Add ice and shake. Strain into a lowball glass. Add crushed ice. Garnish with a pineapple wedge.",
+        "notes": "",
+        "url": "https://www.youtube.com/watch?v=ZSBzzPvLk6c"
+      }
+    ]
+  },
+  {
+    "name": "French 75",
+    "image": "french-75.jpg",
+    "recipes": [
+      {
+        "drinkware": "champagne flute",
+        "ingredients": [
+          {
+            "name": "sparkling wine",
+            "unit": "milliliter",
+            "quantity1": 60
+          },
+          {
+            "name": "london dry gin",
+            "unit": "milliliter",
+            "quantity1": 30
+          },
+          {
+            "name": "lemon juice",
+            "unit": "milliliter",
+            "quantity1": 15
+          },
+          {
+            "name": "simple syrup",
+            "unit": "milliliter",
+            "quantity1": 15
+          }
+        ],
+        "garnishes": ["lemon spiral"],
+        "method": "Add the sparkling wine to a champagne flute. Add the gin, lemon juice and simple syrup to a shaker. Add ice to the shaker and shake. Strain into champagne flute along the side of the glass. Garnish with a lemon spiral.",
+        "notes": "",
+        "url": "https://www.youtube.com/watch?v=Viz7yWfcmdo"
+      },
+      {
+        "drinkware": "highball glass",
+        "ingredients": [
+          {
+            "name": "gin",
+            "unit": "ounce",
+            "quantity1": 2
+          },
+          {
+            "name": "lemon juice",
+            "unit": "ounce",
+            "quantity1": 1
+          },
+          {
+            "name": "gomme syrup",
+            "unit": "ounce",
+            "quantity1": 0,
+            "quantity2": 5
+          },
+          {
+            "name": "absinthe",
+            "unit": "dash",
+            "quantity1": 2
+          },
+          {
+            "name": "champagne",
+            "unit": "none"
+          }
+        ],
+        "garnishes": ["lemon spiral"],
+        "method": "Add the gin, lemon juice and gomme syrup to a shaker tin. Add ice and shake. Strain into a highball glass filled with ice. Top with champagne and add the absinthe. Garnish with a lemon spiral.",
+        "notes": "",
+        "url": "https://www.youtube.com/watch?v=MVkI_ba4bLs"
+      }
+    ]
+  },
+  {
+    "name": "Long Island Iced Tea",
+    "image": "long-island-iced-tea.jpg",
+    "recipes": [
+      {
+        "drinkware": "stein glass",
+        "ingredients": [
+          {
+            "name": "vodka",
+            "unit": "milliliter",
+            "quantity1": 30
+          },
+          {
+            "name": "light rum",
+            "unit": "milliliter",
+            "quantity1": 30
+          },
+          {
+            "name": "gin",
+            "unit": "milliliter",
+            "quantity1": 30
+          },
+          {
+            "name": "blanco tequila",
+            "unit": "milliliter",
+            "quantity1": 30
+          },
+          {
+            "name": "triple sec",
+            "unit": "milliliter",
+            "quantity1": 30
+          },
+          {
+            "name": "lemon juice",
+            "unit": "milliliter",
+            "quantity1": 30
+          },
+          {
+            "name": "demerara syrup",
+            "unit": "milliliter",
+            "quantity1": 15
+          },
+          {
+            "name": "cola",
+            "unit": "none",
+            "quantity1": null
+          }
+        ],
+        "garnishes": ["lemon wheel"],
+        "method": "Chill a stein glass. Add the vodka, light rum, gin, tequila, triple sec, lemon juice, demerara syrup. add ice and shake. Pour into the chilled glass. Top with cola. Garnish with a lemon wheel.",
+        "notes": "",
+        "url": "https://www.youtube.com/watch?v=jLTLBQqWzq8"
+      }
+    ]
+  },
+  {
+    "name": "Cosmopolitan",
+    "image": "cosmopolitan.jpg",
+    "recipes": [
+      {
+        "drinkware": "cocktail glass",
+        "ingredients": [
+          {
+            "name": "vodka",
+            "unit": "milliliter",
+            "quantity1": 45
+          },
+          {
+            "name": "cointreau",
+            "unit": "milliliter",
+            "quantity1": 15
+          },
+          {
+            "name": "cranberry juice",
+            "unit": "milliliter",
+            "quantity1": 30
+          },
+          {
+            "name": "lime juice",
+            "unit": "milliliter",
+            "quantity1": 15
+          }
+        ],
+        "garnishes": ["orange swath"],
+        "method": "Add the vodka, cointreau, cranberry juice and lime juice to a shaker. Add ice and shake. Strain into a chilled martini glass. Garnish with an orange swath.",
+        "notes": "",
+        "url": "https://www.youtube.com/watch?v=y23sJPG5McA"
+      },
+      {
+        "drinkware": "champagne coupe",
+        "ingredients": [
+          {
+            "name": "vodka",
+            "unit": "ounce",
+            "quantity1": 2
+          },
+          {
+            "name": "dry curaçao",
+            "unit": "ounce",
+            "quantity1": 1
+          },
+          {
+            "name": "cranberry juice",
+            "unit": "ounce",
+            "quantity1": 1
+          },
+          {
+            "name": "lime juice",
+            "unit": "ounce",
+            "quantity1": 0,
+            "quantity2": 5
+          },
+          {
+            "name": "simple syrup",
+            "unit": "ounce",
+            "quantity1": 0,
+            "quantity2": 25
+          }
+        ],
+        "garnishes": ["lime wheel"],
+        "method": "Shake all the ingredients with ice. Strain into a chilled champagne coupe. Garnish with a lime wheel. Garnish with a lime wheel.",
+        "notes": "Popularized by Sex and the City television series.",
+        "url": "https://www.youtube.com/watch?v=vKv8cnh2ocU"
+      }
+    ]
+  },
+  {
+    "name": "Scofflaw",
+    "image": "scofflaw.jpg",
+    "recipes": [
+      {
+        "drinkware": "nick & nora glass",
+        "ingredients": [
+          {
+            "name": "rye",
+            "unit": "milliliter",
+            "quantity1": 45
+          },
+          {
+            "name": "dry vermouth",
+            "unit": "milliliter",
+            "quantity1": 30
+          },
+          {
+            "name": "lemon juice",
+            "unit": "milliliter",
+            "quantity1": 15
+          },
+          {
+            "name": "grenadine",
+            "unit": "milliliter",
+            "quantity1": 7.5
+          },
+          {
+            "name": "orange bitters",
+            "unit": "dash",
+            "quantity1": 2
+          }
+        ],
+        "garnishes": ["orange swath"],
+        "method": "Add the rye, dry vermouth, lemon juice, grenadine and orange bitters to a shaker. Add ice and shake. Strain into a nick & nora glass. Express orange oils over the cocktail. Garnish with an orange swath.",
+        "notes": "",
+        "url": "https://www.youtube.com/watch?v=nutbajkZ8Lc"
+      }
+    ]
+  },
+  {
+    "name": "Queen's Park Hotel",
+    "image": "queens-park-hotel.jpg",
+    "recipes": [
+      {
+        "drinkware": "champagne coupe",
+        "ingredients": [
+          {
+            "name": "gold rum",
+            "unit": "milliliter",
+            "quantity1": 45
+          },
+          {
+            "name": "sweet vermouth",
+            "unit": "milliliter",
+            "quantity1": 15
+          },
+          {
+            "name": "lime juice",
+            "unit": "milliliter",
+            "quantity1": 15
+          },
+          {
+            "name": "grenadine",
+            "unit": "milliliter",
+            "quantity1": 15
+          },
+          {
+            "name": "angostura bitters",
+            "unit": "dash",
+            "quantity1": 3
+          }
+        ],
+        "garnishes": ["lime spiral"],
+        "method": "Add the gold rum, sweet vermouth, lime juice, grenadine and angostura bitters to a mixer. Add ice and shake. Strain into a chilled champagne coupe. Garnish with a lime spiral.",
+        "notes": "",
+        "url": "https://www.youtube.com/watch?v=ASTV1OEXhbE"
+      }
+    ]
+  },
+  {
+    "name": "Gold Rush",
+    "image": "gold-rush.jpg",
+    "recipes": [
+      {
+        "drinkware": "lowball glass",
+        "ingredients": [
+          {
+            "name": "bourbon",
+            "unit": "milliliter",
+            "quantity1": 45
+          },
+          {
+            "name": "lemon juice",
+            "unit": "milliliter",
+            "quantity1": 22.5
+          },
+          {
+            "name": "honey syrup",
+            "unit": "milliliter",
+            "quantity1": 22.5
+          }
+        ],
+        "garnishes": [],
+        "method": "Add the bourbon, lemon juice and honey syrup to a shaker. Add a block of ice to a lowball glass. Add ice and shake. Strain into the lowball glass.",
+        "notes": "",
+        "url": "https://www.youtube.com/watch?v=VBSjE-P_C58"
+      }
+    ]
+  },
+  {
+    "name": "Paloma",
+    "image": "paloma.jpg",
+    "recipes": [
+      {
+        "drinkware": "highball glass",
+        "ingredients": [
+          {
+            "name": "tequila",
+            "unit": "milliliter",
+            "quantity1": 50
+          },
+          {
+            "name": "lime juice",
+            "unit": "milliliter",
+            "quantity1": 5
+          },
+          {
+            "name": "grapefruit juice",
+            "unit": "milliliter",
+            "quantity1": 100
+          },
+          {
+            "name": "club soda",
+            "unit": "pinch",
+            "quantity1": 1
+          }
+        ],
+        "garnishes": ["lime slice"],
+        "method": "Add the tequila and lime juice to a highball glass. Add ice and salt. Top with grapefruit juice. Stir gently. Garnish with a lime slice.",
+        "notes": "",
+        "url": "https://iba-world.com/paloma/"
+      },
+      {
+        "drinkware": "collins glass",
+        "ingredients": [
+          {
+            "name": "tequila",
+            "unit": "milliliter",
+            "quantity1": 45
+          },
+          {
+            "name": "lime juice",
+            "unit": "milliliter",
+            "quantity1": 15
+          },
+          {
+            "name": "grapefruit juice",
+            "unit": "milliliter",
+            "quantity1": 90
+          },
+          {
+            "name": "club soda",
+            "unit": "none"
+          }
+        ],
+        "garnishes": ["lime wheel"],
+        "method": "Rim a collins glass with salt and fill with ice cubes. Add the tequila, lime juice and grapefruit juice before topping with club soda. Garnish with a lime wheel.",
+        "notes": "",
+        "url": "https://www.youtube.com/watch?v=eOh93U5WM7I"
+      },
+      {
+        "drinkware": "lowball glass",
+        "ingredients": [
+          {
+            "name": "tequila",
+            "unit": "ounce",
+            "quantity1": 2
+          },
+          {
+            "name": "grapefruit soda",
+            "unit": "ounce",
+            "quantity1": 3
+          },
+          {
+            "name": "grapefruit",
+            "unit": "none"
+          },
+          {
+            "name": "lime",
+            "unit": "none"
+          }
+        ],
+        "garnishes": ["salt rim", "mint sprig"],
+        "method": "Build in a salt rimmed glass. Muddle 4 lime quarters and 2 grapefruit slices before adding the rest of the ingredients. Garnish with a mint sprif.",
+        "notes": "",
+        "url": "https://www.youtube.com/watch?v=nxBjqBKDYcY"
+      }
+    ]
+  },
+  {
+    "name": "Mojito",
+    "image": "mojito.jpg",
+    "recipes": [
+      {
+        "drinkware": "collins glass",
+        "ingredients": [
+          {
+            "name": "light rum",
+            "unit": "milliliter",
+            "quantity1": 60
+          },
+          {
+            "name": "lime juice",
+            "unit": "milliliter",
+            "quantity1": 22.5
+          },
+          {
+            "name": "demerara syrup",
+            "unit": "milliliter",
+            "quantity1": 15
+          },
+          {
+            "name": "soda water",
+            "unit": "none"
+          },
+          {
+            "name": "mint leaf",
+            "unit": "milliliter",
+            "quantity1": 10,
+            "approx": true
+          }
+        ],
+        "garnishes": ["mint sprig"],
+        "method": "Add the mint leaves to a chilled collins glass and release the oils by agitating them with a barspoon. Add the light rum, demerara syrup and lime juice to a shaker with ice and shake. Fill the collins glass with ice cubes. Strain into the collins glass and top off with soda water. Garnish with a mint sprig.",
+        "notes": "",
+        "url": "https://www.youtube.com/watch?v=KMypSCazyRw"
+      }
+    ]
+  },
+  {
+    "name": "White Lady",
+    "image": "white-lady.jpg",
+    "recipes": [
+      {
+        "drinkware": "nick & nora glass",
+        "ingredients": [
+          {
+            "name": "london dry gin",
+            "unit": "milliliter",
+            "quantity1": 45
+          },
+          {
+            "name": "triple sec",
+            "unit": "milliliter",
+            "quantity1": 22.5
+          },
+          {
+            "name": "lemon juice",
+            "unit": "milliliter",
+            "quantity1": 22.5
+          },
+          {
+            "name": "simple syrup",
+            "unit": "milliliter",
+            "quantity1": 7.5
+          }
+        ],
+        "garnishes": [],
+        "method": "Add the london dry gin, triple sec, lemon juice and simple syrup to a shaker. Add ice and shake. Strain into a chilled nick & nora glass. Express the oils of a lemon swath over the cocktail.",
+        "notes": "",
+        "url": "https://www.youtube.com/watch?v=IAmf7XqE0T8"
+      }
+    ]
+  },
+  {
+    "name": "Rusty Nail",
+    "image": "rusty-nail.jpg",
+    "recipes": [
+      {
+        "drinkware": "lowball glass",
+        "ingredients": [
+          {
+            "name": "scotch",
+            "unit": "milliliter",
+            "quantity1": 60
+          },
+          {
+            "name": "drambuie",
+            "unit": "milliliter",
+            "quantity1": 30
+          }
+        ],
+        "garnishes": ["lemon swath"],
+        "method": "Add the scotch and drambuie to a mixing glass. Add ice and stir. Add ice to a lowball glass. Strain into the lowball glass. Express lemon oils over the cocktail. Garnish with a lemon swath.",
+        "notes": "",
+        "url": "https://www.youtube.com/watch?v=nTyrz70_OPA"
+      }
+    ]
+  },
+  {
+    "name": "Martinez",
+    "image": "martinez.jpg",
+    "recipes": [
+      {
+        "drinkware": "champagne coupe",
+        "ingredients": [
+          {
+            "name": "old tom gin",
+            "unit": "milliliter",
+            "quantity1": 37.5
+          },
+          {
+            "name": "sweet vermouth",
+            "unit": "milliliter",
+            "quantity1": 37.5
+          },
+          {
+            "name": "maraschino",
+            "unit": "milliliter",
+            "quantity1": 7.5
+          },
+          {
+            "name": "orange bitters",
+            "unit": "milliliter",
+            "quantity1": 7.5
+          }
+        ],
+        "garnishes": ["lemon swath"],
+        "method": "Add the old tom gin, sweet vermouth, maraschino and orange bitters to a mixing glass. Add ice and stir. Strain into a chilled champagne coupe. Express lemon oils over the cocktail. Garnish with a lemon swath.",
+        "notes": "",
+        "url": "https://www.youtube.com/watch?v=MuxY7_-_U_8"
+      },
+      {
+        "drinkware": "nick & nora glass",
+        "ingredients": [
+          {
+            "name": "old tom gin",
+            "unit": "ounce",
+            "quantity1": 1
+          },
+          {
+            "name": "dry vermouth",
+            "unit": "ounce",
+            "quantity1": 2
+          },
+          {
+            "name": "boker's bitters",
+            "unit": "dash",
+            "quantity1": 2
+          },
+          {
+            "name": "maraschino",
+            "unit": "barspoon",
+            "quantity1": 1
+          }
+        ],
+        "garnishes": ["lemon spiral"],
+        "method": "Stir all the ingredients with ice. Strain into a nick & nora glass. Garnish with a lemon spiral.",
+        "notes": "",
+        "url": "https://www.youtube.com/watch?v=DS3UFj6e-_k"
+      }
+    ]
+  },
+  {
+    "name": "Mint Julep",
+    "image": "mint-julep.jpg",
+    "recipes": [
+      {
+        "drinkware": "julep cup",
+        "ingredients": [
+          {
+            "name": "bourbon",
+            "unit": "milliliter",
+            "quantity1": 60
+          },
+          {
+            "name": "demerara syrup",
+            "unit": "milliliter",
+            "quantity1": 15
+          },
+          {
+            "name": "mint leaf",
+            "unit": "unit",
+            "quantity1": 6
+          }
+        ],
+        "garnishes": ["mint sprig"],
+        "method": "Add the mint leaves, demerara syrup and bourbon to a shaker. Add ice cubes and shake. Strain into a chilled julep cup. Garnish with a mint sprig.",
+        "notes": "",
+        "url": "https://www.youtube.com/watch?v=xfLW5Na9QpM"
+      }
+    ]
+  },
+  {
+    "name": "Queen's Park Swizzle",
+    "image": "queens-park-swizzle.jpg",
+    "recipes": [
+      {
+        "drinkware": "collins glass",
+        "ingredients": [
+          {
+            "name": "light rum",
+            "unit": "milliliter",
+            "quantity1": 60
+          },
+          {
+            "name": "lime juice",
+            "unit": "milliliter",
+            "quantity1": 22.5
+          },
+          {
+            "name": "demerara syrup",
+            "unit": "milliliter",
+            "quantity1": 15
+          },
+          {
+            "name": "angostura bitters",
+            "unit": "dash",
+            "quantity1": 4
+          },
+          {
+            "name": "mint leaf",
+            "unit": "unit",
+            "quantity1": 8
+          }
+        ],
+        "garnishes": [],
+        "method": "Add the mint leaves to a collins glass and press down gently with a bar spoon to release oils. Add the rum, demerara syrup and lime juice. Stir. Almost fill with crushed ice and swizzle. Top off with crushed ice. Add the angostura bitters. Garnish with a sprig of mint.",
+        "notes": "",
+        "url": "https://www.youtube.com/watch?v=ox1-C1owN80"
+      }
+    ]
+  },
+  {
+    "name": "Ward Eight",
+    "image": "ward-eight.jpg",
+    "recipes": [
+      {
+        "drinkware": "champagne coupe",
+        "ingredients": [
+          {
+            "name": "rye",
+            "unit": "milliliter",
+            "quantity1": 60
+          },
+          {
+            "name": "lemon juice",
+            "unit": "milliliter",
+            "quantity1": 15
+          },
+          {
+            "name": "orange juice",
+            "unit": "milliliter",
+            "quantity1": 15
+          },
+          {
+            "name": "grenadine",
+            "unit": "milliliter",
+            "quantity1": 15
+          }
+        ],
+        "garnishes": ["orange slice quarter", "cocktail cherry"],
+        "method": "Add the rye, lemon juice, orange juice and grenadine to a shaker. Add ice cubes and shake. Strain into a chilled champagne coupe. Garnish with a orange slice quarter and a cocktail cherry.",
+        "notes": "",
+        "url": "https://www.youtube.com/watch?v=wdxc0URza70"
+      }
+    ]
+  },
+  {
+    "name": "Bamboo",
+    "image": "bamboo.jpg",
+    "recipes": [
+      {
+        "drinkware": "champagne coupe",
+        "ingredients": [
+          {
+            "name": "dry sherry",
+            "unit": "milliliter",
+            "quantity1": 45
+          },
+          {
+            "name": "dry vermouth",
+            "unit": "milliliter",
+            "quantity1": 45
+          },
+          {
+            "name": "orange bitters",
+            "unit": "dash",
+            "quantity1": 2
+          },
+          {
+            "name": "angostura bitters",
+            "unit": "dash",
+            "quantity1": 2
+          }
+        ],
+        "garnishes": ["orange swath"],
+        "method": "Add the dry sherry, dry vermouth and bitters to a mixing glass. Pour into a chilled champagne coupe. Express orange oils over the cocktail. Garnish with an orange swath.",
+        "notes": "",
+        "url": "https://www.youtube.com/watch?v=B8l-F1qcTYU"
+      }
+    ]
+  },
+  {
+    "name": "Satan's Whiskers",
+    "image": "satans-whiskers.jpg",
+    "recipes": [
+      {
+        "drinkware": "champagne coupe",
+        "ingredients": [
+          {
+            "name": "london dry gin",
+            "unit": "milliliter",
+            "quantity1": 22.5
+          },
+          {
+            "name": "dry vermouth",
+            "unit": "milliliter",
+            "quantity1": 22.5
+          },
+          {
+            "name": "sweet vermouth",
+            "unit": "milliliter",
+            "quantity1": 22.5
+          },
+          {
+            "name": "dry curaçao",
+            "unit": "milliliter",
+            "quantity1": 15
+          },
+          {
+            "name": "orange juice",
+            "unit": "milliliter",
+            "quantity1": 15
+          },
+          {
+            "name": "orange bitters",
+            "unit": "dash",
+            "quantity1": 1
+          }
+        ],
+        "garnishes": [],
+        "method": "Add the london dry gin, dry vermouth, sweet vermouth, dry curaçao, orange juice and orange bitters to a shaker. Add ice cubes and shake. Strain into a chilled champagne coupe. Express orange oils over the cocktail. Garnish with an orange spiral.",
+        "notes": "",
+        "url": "https://www.youtube.com/watch?v=T3GsJVVGCFs"
+      }
+    ]
+  },
+  {
+    "name": "B-52 Shot",
+    "image": "b-52-shot.jpg",
+    "recipes": [
+      {
+        "drinkware": "shot glass",
+        "ingredients": [
+          {
+            "name": "kahlúa",
+            "unit": "milliliter",
+            "quantity1": 15
+          },
+          {
+            "name": "baileys irish cream",
+            "unit": "milliliter",
+            "quantity1": 15
+          },
+          {
+            "name": "cointreau",
+            "unit": "milliliter",
+            "quantity1": 15
+          }
+        ],
+        "garnishes": ["fire"],
+        "method": "Add the kahlúa to a shot glass. Layer in the Baileys Irish Cream followed by the cointreau. Light.",
+        "notes": "",
+        "url": "https://www.youtube.com/watch?v=GVO9cjb9X3c"
+      }
+    ]
+  },
+  {
+    "name": "Blue Lagoon",
+    "image": "blue-lagoon.jpg",
+    "recipes": [
+      {
+        "drinkware": "hurricane glass",
+        "ingredients": [
+          {
+            "name": "vodka",
+            "unit": "milliliter",
+            "quantity1": 45
+          },
+          {
+            "name": "blue curaçao",
+            "unit": "milliliter",
+            "quantity1": 45
+          },
+          {
+            "name": "lemonade",
+            "unit": "milliliter",
+            "quantity1": 120
+          },
+          {
+            "name": "lime juice",
+            "unit": "splash",
+            "quantity1": 1
+          }
+        ],
+        "garnishes": ["lemon wheel", "cherry"],
+        "method": "Add ice cubes to a hurricane glass. Add the vodka, lemonade and lime juice. Then add the blue curaçao. Garnish with a lemon wheel and cherry.",
+        "notes": "",
+        "url": "https://www.youtube.com/watch?v=APzwFz70XPQ"
+      }
+    ]
+  },
+  {
+    "name": "Paradise",
+    "image": "paradise.jpg",
+    "recipes": [
+      {
+        "drinkware": "hurricane glass",
+        "ingredients": [
+          {
+            "name": "malibu rum",
+            "unit": "milliliter",
+            "quantity1": 60
+          },
+          {
+            "name": "pineapple juice",
+            "unit": "milliliter",
+            "quantity1": 90
+          },
+          {
+            "name": "blue curaçao",
+            "unit": "milliliter",
+            "quantity1": 7.5
+          },
+          {
+            "name": "water",
+            "unit": "milliliter",
+            "quantity1": 30
+          },
+          {
+            "name": "grenadine",
+            "unit": "milliliter",
+            "quantity1": 15
+          }
+        ],
+        "garnishes": [],
+        "method": "Add the pineapple juice and malibu rum to a mixing glass and stir. Add the blue curaçao and water to a separate mixing glass and stir. Add the grenadine to a hurricane glass before filling with ice. Add the pineapple juice and malibu. Add the blue curaçao cut by water. Garnish with a stir stick. Serve with a straw.",
+        "notes": "",
+        "url": "https://www.youtube.com/watch?v=3sMEr6K10AQ"
+      }
+    ]
+  },
+  {
+    "name": "Sex on the Beach",
+    "image": "sex-on-the-beach.jpg",
+    "recipes": [
+      {
+        "drinkware": "hurricane glass",
+        "ingredients": [
+          {
+            "name": "vodka",
+            "unit": "milliliter",
+            "quantity1": 45
+          },
+          {
+            "name": "peach liqueur",
+            "unit": "milliliter",
+            "quantity1": 15
+          },
+          {
+            "name": "orange juice",
+            "unit": "milliliter",
+            "quantity1": 45
+          },
+          {
+            "name": "cranberry juice",
+            "unit": "milliliter",
+            "quantity1": 45
+          }
+        ],
+        "garnishes": ["orange slice", "maraschino cherry"],
+        "method": "Fill a hurricane glass with ice. Add the vodka, peach liqueur, orange juice and cranberry juice. Garnish with an orange slice and maraschino cherry.",
+        "notes": "",
+        "url": "https://www.youtube.com/watch?v=d8tJn3OPGgE"
+      }
+    ]
+  },
+  {
+    "name": "Barbados Sunrise",
+    "image": "barbados-sunrise.jpg",
+    "recipes": [
+      {
+        "drinkware": "highball glass",
+        "ingredients": [
+          {
+            "name": "light rum",
+            "unit": "milliliter",
+            "quantity1": 45
+          },
+          {
+            "name": "blue curaçao",
+            "unit": "milliliter",
+            "quantity1": 15
+          },
+          {
+            "name": "orange juice",
+            "unit": "milliliter",
+            "quantity1": 90
+          },
+          {
+            "name": "grenadine",
+            "unit": "milliliter",
+            "quantity1": 15
+          }
+        ],
+        "garnishes": ["orange slice half"],
+        "method": "Add the light rum and blue curaçao to a mixing glass. Add the grenadine to a highball glass. Add ice blocks to the glass. Add the orange juice. Layer on the rum and blue curaçao mixture. Garnish with an orange slice half. Serve with a stra.",
+        "notes": "",
+        "url": ""
+      }
+    ]
+  },
+  {
+    "name": "Tequila Sunrise",
+    "image": "tequila-sunrise.jpg",
+    "recipes": [
+      {
+        "drinkware": "collins glass",
+        "ingredients": [
+          {
+            "name": "tequila",
+            "unit": "milliliter",
+            "quantity1": 60
+          },
+          {
+            "name": "orange juice",
+            "unit": "milliliter",
+            "quantity1": 120
+          },
+          {
+            "name": "grenadine",
+            "unit": "milliliter",
+            "quantity1": 7.5
+          }
+        ],
+        "garnishes": ["orange wedge"],
+        "method": "Add the tequila and orange juice to a shaker. Add ice cubes and shake. Add the grenadine to a collins glass and fill with ice. Strain into the collins glass. Gently stir. Garnish with an orange wedge.",
+        "notes": "",
+        "url": "https://www.youtube.com/watch?v=QmBkd_Zxv8k"
+      }
+    ]
+  },
+  {
+    "name": "Green Screwdriver",
+    "image": "green-screwdriver.jpg",
+    "recipes": [
+      {
+        "drinkware": "lowball glass",
+        "ingredients": [
+          {
+            "name": "vodka",
+            "unit": "milliliter",
+            "quantity1": 30
+          },
+          {
+            "name": "blue curaçao",
+            "unit": "milliliter",
+            "quantity1": 30
+          },
+          {
+            "name": "orange juice",
+            "unit": "milliliter",
+            "quantity1": 120
+          },
+          {
+            "name": "club soda",
+            "unit": "milliliter",
+            "quantity1": 60,
+            "approx": true
+          }
+        ],
+        "garnishes": [],
+        "method": "Fill a lowball glass with ice. Add the vodka, blue curaçao and orange juice. Top with club soda. Stir.",
+        "notes": "",
+        "url": "https://www.youtube.com/watch?v=zfgVJhWdeJk"
+      }
+    ]
+  },
+  {
+    "name": "Purple Rain",
+    "image": "purple-rain.jpg",
+    "recipes": [
+      {
+        "drinkware": "highball glass",
+        "ingredients": [
+          {
+            "name": "gin",
+            "unit": "milliliter",
+            "quantity1": 50
+          },
+          {
+            "name": "blue curaçao",
+            "unit": "milliliter",
+            "quantity1": 15
+          },
+          {
+            "name": "lime juice",
+            "unit": "milliliter",
+            "quantity1": 15
+          },
+          {
+            "name": "grenadine",
+            "unit": "milliliter",
+            "quantity1": 40
+          },
+          {
+            "name": "soda water",
+            "unit": "none"
+          }
+        ],
+        "garnishes": ["lemon wheel"],
+        "method": "Fill a highball glass with ice. Add the gin, blue curaçao and lime juice. Stir. Almost top with soda water. Gently add the grenadine. Garnish with a lemon wheel. Serve with a straw.",
+        "notes": "",
+        "url": "https://www.youtube.com/watch?v=7wiWoNvduDg"
+      }
+    ]
+  },
+  {
+    "name": "Harvey Wallbanger",
+    "image": "harvey-wallbanger.jpg",
+    "recipes": [
+      {
+        "drinkware": "collins glass",
+        "ingredients": [
+          {
+            "name": "vodka",
+            "unit": "milliliter",
+            "quantity1": 45
+          },
+          {
+            "name": "orange juice",
+            "unit": "milliliter",
+            "quantity1": 120
+          },
+          {
+            "name": "galliano",
+            "unit": "milliliter",
+            "quantity1": 15
+          },
+          {
+            "name": "vodka",
+            "unit": "milliliter",
+            "quantity1": 45
+          }
+        ],
+        "garnishes": ["orange slice", "maraschino cherry"],
+        "method": "Fill a collins glass with ice. Add the vodka, orange juice and galliano. Stir. Garnish with orange slice and maraschino cherry.",
+        "notes": "",
+        "url": "https://www.youtube.com/watch?v=8r9Pvc7OWdA"
+      }
+    ]
+  },
+  {
+    "name": "Miami Vice",
+    "image": "miami-vice.jpg",
+    "recipes": [
+      {
+        "drinkware": "hurricane glass",
+        "ingredients": [
+          {
+            "name": "light rum",
+            "unit": "milliliter",
+            "quantity1": 120
+          },
+          {
+            "name": "cream of coconut",
+            "unit": "milliliter",
+            "quantity1": 30
+          },
+          {
+            "name": "pineapple juice",
+            "unit": "milliliter",
+            "quantity1": 45
+          },
+          {
+            "name": "lime juice",
+            "unit": "milliliter",
+            "quantity1": 37.5
+          },
+          {
+            "name": "simple syrup",
+            "unit": "milliliter",
+            "quantity1": 22.5
+          },
+          {
+            "name": "strawberry",
+            "unit": "unit",
+            "quantity1": 2
+          }
+        ],
+        "garnishes": ["cocktail umbrella"],
+        "method": "Add the cream of coconut, pineapple juice, 15 ml of the lime juice and 60 ml of the light rum to a blender. Blend with 5 ice cubes and pour the cocktail into a glass and store in the freezer. Add the remaining lime juice, simple syrup, the remaining rum and the strawberry to a blender. Blend with 4 ice cubes. Hold a knife in the center of a hurricane glass and add the two cocktails on either side. Garnish with a cocktail umbrella. Serve with a cocktail straw.",
+        "notes": "",
+        "url": "https://www.youtube.com/watch?v=RS7JTPNWYRQ"
+      }
+    ]
+  },
+  {
+    "name": "Butterfly Pea Flower Cocktail",
+    "image": "butterfly-pea-flower-cocktail.jpg",
+    "recipes": [
+      {
+        "drinkware": "champagne coupe",
+        "ingredients": [
+          {
+            "name": "navy strength gin",
+            "unit": "milliliter",
+            "quantity1": 60
+          },
+          {
+            "name": "butterfly pea flower tea",
+            "unit": "milliliter",
+            "quantity1": 30
+          },
+          {
+            "name": "simple syrup",
+            "unit": "milliliter",
+            "quantity1": 22.5
+          },
+          {
+            "name": "citric acid solution",
+            "unit": "milliliter",
+            "quantity1": 22.5
+          }
+        ],
+        "garnishes": [],
+        "method": "Refrigerate the butterfly pea flower tea. Add the simple syrup, butterfly pea flower tea and navy strength gin to a shaker tin with ice. Shake. Strain into champagne coupe. Add citric acid solution.",
+        "notes": "Make citric acid solution by combining 0.5 tsp citric acid and 90 ml water.",
+        "url": "https://www.youtube.com/watch?v=oi6ujgAM64E"
+      }
+    ]
+  },
+  {
+    "name": "Negroni Spagliato",
+    "image": "negroni-spagliato.jpg",
+    "recipes": [
+      {
+        "drinkware": "wine glass",
+        "ingredients": [
+          {
+            "name": "campari",
+            "unit": "milliliter",
+            "quantity1": 30
+          },
+          {
+            "name": "sweet vermouth",
+            "unit": "milliliter",
+            "quantity1": 30
+          },
+          {
+            "name": "prosecco",
+            "unit": "milliliter",
+            "quantity1": 30
+          }
+        ],
+        "garnishes": ["orange slice half"],
+        "method": "Fill a wine glass with ice. Add the campari, sweet vermouth and prosecco. Garnish with a orange slice half. Serve with a straw.",
+        "notes": "",
+        "url": "https://www.youtube.com/watch?v=B8PXlzcO2Wo"
+      }
+    ]
+  },
+  {
+    "name": "Aperol Spritz",
+    "image": "aperol-spritz.jpg",
+    "recipes": [
+      {
+        "drinkware": "wine glass",
+        "ingredients": [
+          {
+            "name": "prosecco",
+            "unit": "milliliter",
+            "quantity1": 90
+          },
+          {
+            "name": "aperol",
+            "unit": "milliliter",
+            "quantity1": 60
+          },
+          {
+            "name": "soda water",
+            "unit": "milliliter",
+            "quantity1": 30
+          }
+        ],
+        "garnishes": ["orange slice half"],
+        "method": "Fill a wine glass with ice. Add the aperol, prosecco and soda water. Garnish with an orange slice half.",
+        "notes": "",
+        "url": "https://www.youtube.com/watch?v=1VVarviKbEc"
+      }
+    ]
+  },
+  {
+    "name": "Moscow Mule",
+    "image": "moscow-mule.jpg",
+    "recipes": [
+      {
+        "drinkware": "copper mug",
+        "ingredients": [
+          {
+            "name": "vodka",
+            "unit": "milliliter",
+            "quantity1": 45
+          },
+          {
+            "name": "lime juice",
+            "unit": "milliliter",
+            "quantity1": 10
+          },
+          {
+            "name": "ginger beer",
+            "unit": "milliliter",
+            "quantity1": 120
+          }
+        ],
+        "garnishes": ["lime slice"],
+        "method": "Fill a copper mug with ice cubes. Add the vodka, ginger beer and lime juice. Stir gently. Garnish with a lime slice.",
+        "notes": "",
+        "url": "https://iba-world.com/moscow-mule/"
+      },
+      {
+        "drinkware": "copper mug",
+        "ingredients": [
+          {
+            "name": "vodka",
+            "unit": "ounce",
+            "quantity1": 2
+          },
+          {
+            "name": "lime juice",
+            "unit": "ounce",
+            "quantity1": 1
+          },
+          {
+            "name": "ginger beer",
+            "unit": "none"
+          }
+        ],
+        "garnishes": ["lime wedge"],
+        "method": "Build over cracked ice in a copper mug. Top with ginger beer. Garnish with a lime wedge.",
+        "notes": "",
+        "url": "https://www.youtube.com/watch?v=6X0oO5OZzLQ"
+      }
+    ]
+  },
+  {
+    "name": "Hemingway Special",
+    "image": "hemingway-special.jpg",
+    "recipes": [
+      {
+        "drinkware": "cocktail glass",
+        "ingredients": [
+          {
+            "name": "light rum",
+            "unit": "milliliter",
+            "quantity1": 60
+          },
+          {
+            "name": "maraschino",
+            "unit": "milliliter",
+            "quantity1": 15
+          },
+          {
+            "name": "lime juice",
+            "unit": "milliliter",
+            "quantity1": 15
+          },
+          {
+            "name": "grapefruit juice",
+            "unit": "milliliter",
+            "quantity1": 40
+          }
+        ],
+        "garnishes": [],
+        "method": "Add the light rum, maraschino, lime juice and grapefruit juice to a shaker. Add ice and shake. Strain into a cocktail glass.",
+        "notes": "",
+        "url": "https://iba-world.com/hemingway-special/"
+      },
+      {
+        "drinkware": "cocktail glass",
+        "ingredients": [
+          {
+            "name": "light rum",
+            "unit": "milliliter",
+            "quantity1": 45
+          },
+          {
+            "name": "maraschino",
+            "unit": "milliliter",
+            "quantity1": 22.5
+          },
+          {
+            "name": "lime juice",
+            "unit": "milliliter",
+            "quantity1": 15
+          },
+          {
+            "name": "grapefruit juice",
+            "unit": "milliliter",
+            "quantity1": 30
+          }
+        ],
+        "garnishes": ["lime wheel"],
+        "method": "Add the grapefruit juice, lime juice, maraschino and light rum to a shaker tin. Add ice and shake. Strain into a cocktail glass. Garnish with a lime wheel.",
+        "notes": "",
+        "url": "https://www.youtube.com/watch?v=pKbISuGkKBI"
+      }
+    ]
+  },
+  {
+    "name": "Martini",
+    "image": "martini.jpg",
+    "recipes": [
+      {
+        "drinkware": "cocktail glass",
+        "ingredients": [
+          {
+            "name": "london dry gin",
+            "unit": "milliliter",
+            "quantity1": 60
+          },
+          {
+            "name": "dry vermouth",
+            "unit": "milliliter",
+            "quantity1": 10
+          }
+        ],
+        "garnishes": ["olive"],
+        "method": "Add the london dry gin and dry vermouth to a mixing glass with ice cubes. Stir well. Strain into a chilled cocktail glass. Express lemon oil over the cocktail. Garnish with an olive.",
+        "notes": "",
+        "url": "https://iba-world.com/dry-martini/"
+      },
+      {
+        "drinkware": "cocktail glass",
+        "ingredients": [
+          {
+            "name": "london dry gin",
+            "unit": "milliliter",
+            "quantity1": 60
+          },
+          {
+            "name": "dry vermouth",
+            "unit": "milliliter",
+            "quantity1": 15
+          }
+        ],
+        "garnishes": ["lemon spiral"],
+        "method": "Fill a mixing glass with ice. Add the dry vermouth and briefly stir to rinse the ice with the dry vermouth. Strain the vermouth off and discard. Add the london dry gin and stir. Strain into a chilled martini glass. Garnish with a lemon spiral.",
+        "notes": "",
+        "url": "https://www.youtube.com/watch?v=ApMR3IWYZHI"
+      }
+    ]
+  },
+  {
+    "name": "Margarita",
+    "image": "margarita.jpg",
+    "recipes": [
+      {
+        "drinkware": "margarita glass",
+        "ingredients": [
+          {
+            "name": "tequila",
+            "unit": "milliliter",
+            "quantity1": 50
+          },
+          {
+            "name": "triple sec",
+            "unit": "milliliter",
+            "quantity1": 20
+          },
+          {
+            "name": "lime juice",
+            "unit": "milliliter",
+            "quantity1": 15
+          }
+        ],
+        "garnishes": ["salt rim"],
+        "method": "Add the tequila, triple sec and lime juice to a shaker tin. Shake with ice. Strain into a chilled cocktail glass with a slat rim.",
+        "notes": "",
+        "url": "https://iba-world.com/margarita/"
+      },
+      {
+        "drinkware": "margarita glass",
+        "ingredients": [
+          {
+            "name": "tequila",
+            "unit": "ounce",
+            "quantity1": 2
+          },
+          {
+            "name": "dry curaçao",
+            "unit": "ounce",
+            "quantity1": 1
+          },
+          {
+            "name": "lime juice",
+            "unit": "ounce",
+            "quantity1": 1
+          }
+        ],
+        "garnishes": ["salt rim", "lime wheel"],
+        "method": "Shake the ingredients with ice. Strain into a chilled margarita glass with a salt rim. Garnish with a lime wheel.",
+        "notes": "",
+        "url": "https://www.youtube.com/watch?v=vLMiQozMcUo"
+      }
+    ]
+  },
+  {
+    "name": "Barracuda",
+    "image": "barracuda.jpg",
+    "recipes": [
+      {
+        "drinkware": "margarita glass",
+        "ingredients": [
+          {
+            "name": "gold rum",
+            "unit": "milliliter",
+            "quantity1": 45
+          },
+          {
+            "name": "galliano",
+            "unit": "milliliter",
+            "quantity1": 15
+          },
+          {
+            "name": "pineapple juice",
+            "unit": "milliliter",
+            "quantity1": 60
+          },
+          {
+            "name": "lime juice",
+            "unit": "dash",
+            "quantity1": 1
+          },
+          {
+            "name": "prosecco",
+            "unit": "none"
+          }
+        ],
+        "garnishes": [],
+        "method": "Add the gold rum, galliano, pineapple juice and lime juice to a shaker tin. Add ice and shake. Strain into a margarita glass. Top with prosecco.",
+        "notes": "",
+        "url": "https://iba-world.com/barracuda/"
+      }
+    ]
+  },
+  {
+    "name": "Cuba Libre",
+    "image": "cuba-libre.jpg",
+    "recipes": [
+      {
+        "drinkware": "highball glass",
+        "ingredients": [
+          {
+            "name": "light rum",
+            "unit": "milliliter",
+            "quantity1": 50
+          },
+          {
+            "name": "cola",
+            "unit": "milliliter",
+            "quantity1": 120
+          },
+          {
+            "name": "lime juice",
+            "unit": "milliliter",
+            "quantity1": 10
+          }
+        ],
+        "garnishes": [],
+        "method": "Build in a highball glass filled with ice. Garnish with a lime wedge.",
+        "notes": "",
+        "url": "https://iba-world.com/cuba-libre/"
+      }
+    ]
+  },
+  {
+    "name": "Mimosa",
+    "image": "mimosa.jpg",
+    "recipes": [
+      {
+        "drinkware": "champagne flute",
+        "ingredients": [
+          {
+            "name": "champagne",
+            "unit": "milliliter",
+            "quantity1": 75
+          },
+          {
+            "name": "orange juice",
+            "unit": "milliliter",
+            "quantity1": 75
+          }
+        ],
+        "garnishes": ["orange spiral"],
+        "method": "Chill the champagne and orange juice before adding to a champagne flute. Stir. Garnish with an orange spiral.",
+        "notes": "",
+        "url": "https://iba-world.com/mimosa/"
+      }
+    ]
+  },
+  {
+    "name": "Boulevardier",
+    "image": "boulevardier.jpg",
+    "recipes": [
+      {
+        "drinkware": "lowball glass",
+        "ingredients": [
+          {
+            "name": "bourbon",
+            "unit": "milliliter",
+            "quantity1": 45
+          },
+          {
+            "name": "sweet vermouth",
+            "unit": "milliliter",
+            "quantity1": 30
+          },
+          {
+            "name": "campari",
+            "unit": "milliliter",
+            "quantity1": 30
+          }
+        ],
+        "garnishes": ["orange swath"],
+        "method": "Add the bourbon, sweet vermouth and campari in a mixing glass. Add ice and stir. Strain into a lowball glass with ice. Garnish with an orange swath.",
+        "notes": "",
+        "url": "https://www.youtube.com/watch?v=LO3N8i1ZjYI"
+      },
+      {
+        "drinkware": "champagne coupe",
+        "ingredients": [
+          {
+            "name": "bourbon",
+            "unit": "ounce",
+            "quantity1": 2
+          },
+          {
+            "name": "campari",
+            "unit": "ounce",
+            "quantity1": 1,
+            "quantity2": 5
+          },
+          {
+            "name": "sweet vermouth",
+            "unit": "ounce",
+            "quantity1": 1,
+            "quantity2": 5
+          }
+        ],
+        "garnishes": ["orange swath", "maraschino cherry"],
+        "method": "Stir all the ingredients with ice. Strain into a chilled champagne coupe. Express orange oils. Garnish with an orange swath and maraschino cherry.",
+        "notes": "",
+        "url": "https://www.youtube.com/watch?v=jjBG-Ls2QrM"
+      }
+    ]
+  },
+  {
+    "name": "Old Cuban",
+    "image": "old-cuban.jpg",
+    "recipes": [
+      {
+        "drinkware": "cocktail glass",
+        "ingredients": [
+          {
+            "name": "aged rum",
+            "unit": "milliliter",
+            "quantity1": 45
+          },
+          {
+            "name": "lime juice",
+            "unit": "milliliter",
+            "quantity1": 22.5
+          },
+          {
+            "name": "simple syrup",
+            "unit": "milliliter",
+            "quantity1": 30
+          },
+          {
+            "name": "angostura bitters",
+            "unit": "dash",
+            "quantity1": 2
+          },
+          {
+            "name": "mint leaf",
+            "unit": "milliliter",
+            "quantity1": 6
+          },
+          {
+            "name": "prosecco",
+            "unit": "none"
+          }
+        ],
+        "garnishes": ["mint sprig"],
+        "method": "Add the aged rum, lime juice, simple syrup, angostura bitters and mint leaves to a shaker tin. Add ice and shake. Strain into a chilled cocktail glass. Top with prosecco. Garnish with a mint sprig.",
+        "notes": "",
+        "url": "https://iba-world.com/old-cuban/"
+      }
+    ]
+  },
+  {
+    "name": "Paper Plane",
+    "image": "paper-plane.jpg",
+    "recipes": [
+      {
+        "drinkware": "cocktail glass",
+        "ingredients": [
+          {
+            "name": "bourbon",
+            "unit": "milliliter",
+            "quantity1": 30
+          },
+          {
+            "name": "amaro nonino",
+            "unit": "milliliter",
+            "quantity1": 30
+          },
+          {
+            "name": "aperol",
+            "unit": "milliliter",
+            "quantity1": 30
+          },
+          {
+            "name": "lemon juice",
+            "unit": "milliliter",
+            "quantity1": 30
+          }
+        ],
+        "garnishes": [],
+        "method": "Add the bourbon, amaro nonino, aperol and lemon juice to a shaker tin. Add ice and shake. Strain into a chilled cocktail glass.",
+        "notes": "",
+        "url": "https://iba-world.com/paper-plane/"
+      }
+    ]
+  },
+  {
+    "name": "Daiquiri",
+    "image": "daiquiri.jpg",
+    "recipes": [
+      {
+        "drinkware": "champagne coupe",
+        "ingredients": [
+          {
+            "name": "light rum",
+            "unit": "milliliter",
+            "quantity1": 60
+          },
+          {
+            "name": "lime juice",
+            "unit": "milliliter",
+            "quantity1": 30
+          },
+          {
+            "name": "simple syrup",
+            "unit": "milliliter",
+            "quantity1": 22.5
+          },
+          {
+            "name": "saline solution",
+            "unit": "drop",
+            "quantity1": 2
+          }
+        ],
+        "garnishes": [],
+        "method": "Add the light rum, lime juice, simple syrup and saline solution to a shake tin. Add ice and shake. Strain into a chilled champagne coupe.",
+        "notes": "",
+        "url": "https://www.youtube.com/watch?v=cuT8zjmR1AY"
+      }
+    ]
+  },
+  {
+    "name": "Gin and Tonic",
+    "image": "gin-and-tonic.jpg",
+    "recipes": [
+      {
+        "drinkware": "collins glass",
+        "ingredients": [
+          {
+            "name": "london dry gin",
+            "unit": "milliliter",
+            "quantity1": 60
+          },
+          {
+            "name": "tonic water",
+            "unit": "milliliter",
+            "quantity1": 120
+          }
+        ],
+        "garnishes": ["lime wedge"],
+        "method": "Add chilled london dry gin to a chilled collins glass. Tilt the glass and gently pour in the tonic water. Add ice. Garnish with a lime wedge.",
+        "notes": "",
+        "url": "https://www.youtube.com/watch?v=WRoJC-VzsgI"
+      }
+    ]
+  },
+  {
+    "name": "Vodka Soda",
+    "image": "vodka-soda.jpg",
+    "recipes": [
+      {
+        "drinkware": "highball glass",
+        "ingredients": [
+          {
+            "name": "vodka",
+            "unit": "milliliter",
+            "quantity1": 60
+          },
+          {
+            "name": "soda water",
+            "unit": "milliliter",
+            "quantity1": 120
+          }
+        ],
+        "garnishes": ["lime wedge"],
+        "method": "Add the vodka to a highball glass with ice. Top with soda water. Stir. Garnish with a lime wedge.",
+        "notes": "",
+        "url": "https://www.youtube.com/watch?v=h94nCjtFpV8"
+      }
+    ]
+  },
+  {
+    "name": "Sea Breeze",
+    "image": "sea-breeze.jpg",
+    "recipes": [
+      {
+        "drinkware": "highball glass",
+        "ingredients": [
+          {
+            "name": "vodka",
+            "unit": "milliliter",
+            "quantity1": 40
+          },
+          {
+            "name": "cranberry juice",
+            "unit": "milliliter",
+            "quantity1": 120
+          },
+          {
+            "name": "grapefruit juice",
+            "unit": "milliliter",
+            "quantity1": 30
+          }
+        ],
+        "garnishes": ["orange swath", "cherry"],
+        "method": "Build the vodka, cranberry juice and grapefruit juice in a highball glass filled with ice. Garnish with an orange swath and cherry.",
+        "notes": "",
+        "url": "https://iba-world.com/sea-breeze/"
+      }
+    ]
+  },
+  {
+    "name": "Lemon Drop",
+    "image": "lemon-drop.jpg",
+    "recipes": [
+      {
+        "drinkware": "cocktail glass",
+        "ingredients": [
+          {
+            "name": "vodka citron",
+            "unit": "milliliter",
+            "quantity1": 30
+          },
+          {
+            "name": "triple sec",
+            "unit": "milliliter",
+            "quantity1": 20
+          },
+          {
+            "name": "lemon juice",
+            "unit": "milliliter",
+            "quantity1": 15
+          }
+        ],
+        "garnishes": ["sugar rim"],
+        "method": "Add the vodka citron, triple sec and lemon juice to a shaker tin. Add ice and shake. Strain into a chilled cocktail glass with a sugar rim.",
+        "notes": "",
+        "url": ""
+      }
+    ]
+  },
+  {
+    "name": "Mary Pickford",
+    "image": "mary-pickford.jpg",
+    "recipes": [
+      {
+        "drinkware": "champagne coupe",
+        "ingredients": [
+          {
+            "name": "light rum",
+            "unit": "milliliter",
+            "quantity1": 60
+          },
+          {
+            "name": "pineapple juice",
+            "unit": "milliliter",
+            "quantity1": 30
+          },
+          {
+            "name": "maraschino",
+            "unit": "milliliter",
+            "quantity1": 5
+          },
+          {
+            "name": "grenadine",
+            "unit": "milliliter",
+            "quantity1": 5
+          }
+        ],
+        "garnishes": [],
+        "method": "Add the pineapple juice, grenadine, maraschino and light rum to a shaker tin. Shake with ice. Strain into a chilled champagne coupe.",
+        "notes": "",
+        "url": "https://www.youtube.com/watch?v=jhSPMFZyH64"
+      }
+    ]
+  },
+  {
+    "name": "Casino",
+    "image": "casino.jpg",
+    "recipes": [
+      {
+        "drinkware": "cocktail glass",
+        "ingredients": [
+          {
+            "name": "old tom gin",
+            "unit": "milliliter",
+            "quantity1": 40
+          },
+          {
+            "name": "maraschino",
+            "unit": "milliliter",
+            "quantity1": 10
+          },
+          {
+            "name": "lemon juice",
+            "unit": "milliliter",
+            "quantity1": 10
+          },
+          {
+            "name": "orange bitters",
+            "unit": "dash",
+            "quantity1": 2
+          }
+        ],
+        "garnishes": ["lemon twist", "maraschino cherry"],
+        "method": "Add all ingredients to a shaker tin. Shake with ice. Strain into a chilled cocktail glass. Garnish with a lemon twist and maraschino cherry.",
+        "notes": "",
+        "url": "https://iba-world.com/casino/"
+      }
+    ]
+  },
+  {
+    "name": "New York Sour",
+    "image": "new-york-sour.jpg",
+    "recipes": [
+      {
+        "drinkware": "lowball glass",
+        "ingredients": [
+          {
+            "name": "bourbon",
+            "unit": "milliliter",
+            "quantity1": 60
+          },
+          {
+            "name": "simple syrup",
+            "unit": "milliliter",
+            "quantity1": 22.5
+          },
+          {
+            "name": "lemon juice",
+            "unit": "milliliter",
+            "quantity1": 30
+          },
+          {
+            "name": "red wine",
+            "unit": "milliliter",
+            "quantity1": 15
+          }
+        ],
+        "garnishes": ["lemon swath", "cherry"],
+        "method": "Add the bourbon, simple syrup and lemon juice to a shaker tin. Shake with ice. Strain into a chilled lowball glass filled with ice. Float the red win on top. Garnish with a lemon swath and cherry.",
+        "notes": "",
+        "url": "https://iba-world.com/new-york-sour/"
+      }
+    ]
+  },
+  {
+    "name": "Gin Fizz",
+    "image": "gin-fizz.jpg",
+    "recipes": [
+      {
+        "drinkware": "collins glass",
+        "ingredients": [
+          {
+            "name": "gin",
+            "unit": "milliliter",
+            "quantity1": 45
+          },
+          {
+            "name": "lemon juice",
+            "unit": "milliliter",
+            "quantity1": 30
+          },
+          {
+            "name": "simple syrup",
+            "unit": "milliliter",
+            "quantity1": 10
+          },
+          {
+            "name": "soda water"
+          }
+        ],
+        "garnishes": ["lemon slice"],
+        "method": "Add all ingredients (except soda water) to a shaker tin. Shake with ice. Strain into a collins glass. Top with soda water.",
+        "notes": "",
+        "url": "https://iba-world.com/gin-fizz/"
+      }
+    ]
+  },
+  {
+    "name": "Jungle Bird",
+    "image": "jungle-bird.jpg",
+    "recipes": [
+      {
+        "drinkware": "lowball glass",
+        "ingredients": [
+          {
+            "name": "jamaica pot still black rum",
+            "unit": "milliliter",
+            "quantity1": 45
+          },
+          {
+            "name": "pineapple juice",
+            "unit": "milliliter",
+            "quantity1": 45
+          },
+          {
+            "name": "campari",
+            "unit": "milliliter",
+            "quantity1": 22.5
+          },
+          {
+            "name": "lime juice",
+            "unit": "milliliter",
+            "quantity1": 15
+          },
+          {
+            "name": "simple syrup",
+            "unit": "milliliter",
+            "quantity1": 15
+          }
+        ],
+        "garnishes": [],
+        "method": "Add all the ingredients to a shaker tin. Shake with ice. Strain into an lowball glass with ice.",
+        "notes": "",
+        "url": "https://www.youtube.com/watch?v=gykZEACGS4Y"
+      }
+    ]
+  },
+  {
+    "name": "Poinsettia",
+    "image": "poinsettia.jpg",
+    "recipes": [
+      {
+        "drinkware": "nick & nora glass",
+        "ingredients": [
+          {
+            "name": "triple sec",
+            "unit": "ounce",
+            "quantity1": 0,
+            "quantity2": 5
+          },
+          {
+            "name": "cranberry juice",
+            "unit": "ounce",
+            "quantity1": 1
+          },
+          {
+            "name": "simple syrup",
+            "unit": "ounce",
+            "quantity1": 0,
+            "quantity2": 25
+          },
+          {
+            "name": "champagne",
+            "unit": "none"
+          }
+        ],
+        "garnishes": ["cranberry"],
+        "method": "Stir all the ingredients with ice. Strain into a nick & nora glass. Top with champagne. Garnish with floating cranberries.",
+        "notes": "Skip the simply syrup if the cranberry juice already contains added sugar.",
+        "url": "https://www.youtube.com/watch?v=VD9u44AKRgs"
+      }
+    ]
+  },
+  {
+    "name": "Knickerbocker",
+    "image": "knickerbocker.jpg",
+    "recipes": [
+      {
+        "drinkware": "nick & nora glass",
+        "ingredients": [
+          {
+            "name": "rum",
+            "unit": "ounce",
+            "quantity1": 2,
+            "quantity2": 5
+          },
+          {
+            "name": "raspberry syrup",
+            "unit": "ounce",
+            "quantity1": 0,
+            "quantity2": 5
+          },
+          {
+            "name": "lime juice",
+            "unit": "ounce",
+            "quantity1": 0,
+            "quantity2": 5
+          },
+          {
+            "name": "orange curaçao ",
+            "unit": "ounce",
+            "quantity1": 0,
+            "quantity2": 25
+          }
+        ],
+        "garnishes": ["raspberry"],
+        "method": "Shake all the ingredients with ice. Strain into a nick & nora glass. Garnish with a raspberry.",
+        "notes": "",
+        "url": "https://www.youtube.com/watch?v=A6RCH1nqyqQ"
+      }
+    ]
+  },
+  {
+    "name": "Halekulani",
+    "image": "halekulani.jpg",
+    "recipes": [
+      {
+        "drinkware": "champagne coupe",
+        "ingredients": [
+          {
+            "name": "bourbon",
+            "unit": "milliliter",
+            "quantity1": 1,
+            "quantity2": 5 
+          },
+          {
+            "name": "lime juice",
+            "unit": "milliliter",
+            "quantity1": 0, 
+            "quantity2": 5 
+          },
+          {
+            "name": "orange juice",
+            "unit": "milliliter",
+            "quantity1": 0, 
+            "quantity2": 5 
+          },
+          {
+            "name": "pineapple juice",
+            "unit": "milliliter",
+            "quantity1": 0, 
+            "quantity2": 5 
+          },
+          {
+            "name": "demerara Syrup",
+            "unit": "milliliter",
+            "quantity1": 0, 
+            "quantity2": 25 
+          },
+          {
+            "name": "grenadine",
+            "unit": "teaspoon",
+            "quantity1": 0, 
+            "quantity2": 5
+          }
+        ],
+        "garnishes": ["edible orchid"],
+        "method": "Shake all the ingredients with cracked ice. Strain into chilled champagne coupe. Garnish with an edible orchid.",
+        "notes": "",
+        "url": "https://www.youtube.com/watch?v=Z6BioZIIXog"
+      }
+    ]
+  }
+]
